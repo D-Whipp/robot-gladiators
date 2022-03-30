@@ -6,6 +6,12 @@
 
 ## Table of Contents
 
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [License](#license)
+- [Author](#author)
+- [Badges](#badges)
+
 ## Introduction
 
 ## Usage
