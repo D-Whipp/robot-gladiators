@@ -1,8 +1,8 @@
 # Robot Gladiators
 
-## Javascript Browser Game
-
 ### Front End App
+
+## Javascript Browser Game
 
 ## Table of Contents
 
@@ -14,7 +14,11 @@
 
 ## Introduction
 
+A simple Front End Browser game played using window prompts. Written with Javascript to help me better understand JavaScript.
+
 ## Usage
+
+To play this game click [here](https://d-whipp.github.io/robot-gladiators/) and you'll be taken to a blank page. The game is played by answering window prompts once the page loads.
 
 ## License
 
