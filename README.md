@@ -39,3 +39,7 @@ SOFTWARE.
 You can view more of my work at my [github](https://github.com/D-Whipp).
 
 ## Badges
+
+![javascript badge](https://img.shields.io/badge/language-javascript-blue)
+![build stable](https://img.shields.io/badge/build-stable-blue)
+![front end](https://img.shields.io/badge/development-front%20end-brightgreen)
