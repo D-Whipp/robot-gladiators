@@ -47,6 +47,7 @@ SOFTWARE.
 
 ## Author
 
+Hello! My name is David. <br>
 You can view more of my work at my [github](https://github.com/D-Whipp).
 
 ## Badges
