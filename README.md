@@ -1,6 +1,7 @@
 # Robot Gladiators
 
 ### Front End App
+![app snapshot](./assets/images/app-snapshot.jpg)
 
 ## Javascript Browser Game
 
